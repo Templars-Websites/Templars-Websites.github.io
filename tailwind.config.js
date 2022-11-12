@@ -16,6 +16,9 @@ module.exports = {
         darkPurple: '#7B4AE6',
         ligPurple: '#B14AED',
         ligPink: '#C874D9'
+      },
+      fontFamily: {
+        Dancing: ["Dancing", "cursive"]
       }
     },
   },
